@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "335704827005",
+    "project_id": "ziba-a320a",
+    "storage_bucket": "ziba-a320a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335704827005:android:329ef878f878ee772bbd14",
+        "android_client_info": {
+          "package_name": "com.recursivetech.ziba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335704827005-fhf7rpgucnb359kmtb8ai2m2h9525a0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recursivetech.ziba",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "335704827005-3hpa2eo8uetcfuo9acmd9b94lu8qvkdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqSeoo7QbS1YqJOe8TS_e_Q5iGiCaQ_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335704827005-3hpa2eo8uetcfuo9acmd9b94lu8qvkdv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335704827005-bvnuslo3pkiu0lqtho3usvt28p31k13k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recursivetechnologies.ziba"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335704827005:android:2595de82946a93d72bbd14",
+        "android_client_info": {
+          "package_name": "com.recursivetechnologies.ziba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335704827005-hieaq0m477293l1itkb2mflsst5hfbq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recursivetechnologies.ziba",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "335704827005-3hpa2eo8uetcfuo9acmd9b94lu8qvkdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqSeoo7QbS1YqJOe8TS_e_Q5iGiCaQ_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335704827005-3hpa2eo8uetcfuo9acmd9b94lu8qvkdv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335704827005-bvnuslo3pkiu0lqtho3usvt28p31k13k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recursivetechnologies.ziba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
